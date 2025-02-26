@@ -2,6 +2,8 @@
 
 Lumin Solutions is a website developed for a company specializing in social media marketing, branding, and graphic design. This project was developed using ReactJS and Tailwind CSS.
 
+Site URL:- https://lumin-solutions.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
